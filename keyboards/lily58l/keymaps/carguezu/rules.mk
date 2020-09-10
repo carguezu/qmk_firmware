@@ -15,5 +15,5 @@ RGBLIGHT_ENABLE = yes      # Enable keyboard RGB light
 #   ATmega32A    bootloadHID
 #   ATmega328P   USBasp
 # BOOTLOADER = atmel-dfu
-# BOOTLOADER = caterina
+BOOTLOADER = caterina
 # BOOTLOADER = qmk-dfu
